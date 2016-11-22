@@ -1,10 +1,16 @@
 <?xml version="1.0" ?>
   <page>
     <title>organique</title>
+
+
     <gallery root="images">
+
       <media name="table avec feutres tranchés .jpg">
         <caption>Table de chirurgie et feutres tranchés rouge et blanc</caption>
       </media>
+
+      
+
       <media name="double feutre rouge.jpg">
         <caption></caption>
       </media>
