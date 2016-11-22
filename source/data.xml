@@ -8,20 +8,27 @@
         </content>
     </page> -->
 
-    <page href="pages/°°°°TOUT VOIR°°°°.xml" />
+
+    <page href="pages/2002.xml" />
+    <page href="pages/2003.xml" />
+    <page href="pages/2005.xml" />
+        <page href="pages/2007.xml" />
+        <page href="pages/2009.xml" />
+    <page href="pages/2015.xml" />
+    <page href="pages/2010.xml" />
+
 <page href="pages/organique.xml" />
 <page href="pages/grotesque.xml" />
 <page href="pages/extension.xml" />
 <page href="pages/fauteuil.xml" />
 <page href="pages/découpe.xml" />
 <page href="pages/trou.xml" />
-<page href="pages/2003.xml" />
-<page href="pages/2015.xml" />
+
 <page href="pages/cheveux.xml" />
 <page href="pages/prolifération.xml" />
-<page href="pages/2002.xml" />
+
 <page href="pages/montage.xml" />
-<page href="pages/2009.xml" />
+
 <page href="pages/blanc.xml" />
 <page href="pages/princesses.xml" />
 <page href="pages/en plein air.xml" />
@@ -36,14 +43,13 @@
 <page href="pages/gouttes.xml" />
 <page href="pages/dentelle.xml" />
 <page href="pages/aeroplastics.xml" />
-<page href="pages/2005.xml" />
+
 <page href="pages/objet.xml" />
 <page href="pages/moulure.xml" />
 <page href="pages/installation.xml" />
 <page href="pages/2008.xml" />
 <page href="pages/rouge.xml" />
-<page href="pages/2010.xml" />
-<page href="pages/2007.xml" />
+
 <page href="pages/broderie.xml" />
 <page href="pages/dent.xml" />
 <page href="pages/2011.xml" />
@@ -58,7 +64,7 @@
 <page href="pages/2006.xml" />
 <page href="pages/2013.xml" />
 <page href="pages/2012.xml" />
-
+    <page href="pages/tout.xml" />
 
     <asset>
         <from path="js/lodash.js"/>
