@@ -1,6 +1,11 @@
 <?xml version="1.0" ?>
   <page>
     <title>dentelle</title>
+
+    <info>
+      Ou il est question de dentelles
+    </info>
+
     <gallery root="images">
       <media name="dentelle abstraite.jpg">
         <caption></caption>
