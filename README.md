@@ -37,3 +37,5 @@ Réitérer l'étape 1 de telle manière à disposer d'une deuxième fenêtre de 
 ```
 cd fistu-web && python -m http.server 8000
 ```
+
+le site est maintenant visible a l'adresse [http://localhost:8000](http://localhost:8000)
