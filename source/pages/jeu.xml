@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+  <page>
+    <title>jeu</title>
+    <gallery root="images">
+      <media name="culbuto .jpg">
+        <caption></caption>
+      </media>
+      <media name="pull à deux places1.jpg">
+        <caption>Installation, pull </caption>
+      </media>
+      <media name="pull a deux places 2.JPG">
+        <caption>Installation, pull</caption>
+      </media>
+      <media name="pull à deux places 3.JPG">
+        <caption>Installation, pull</caption>
+      </media>
+      <media name="pull double.jpg">
+        <caption>Pull à porter seul ou à deux</caption>
+      </media>
+      <media name="elodidoles empilées.JPG">
+        <caption></caption>
+      </media>
+      <media name="elodidoles morcellées.JPG">
+        <caption></caption>
+      </media>
+      <media name="Hervé en morceaux.jpg">
+        <caption></caption>
+      </media>
+      <media name="Hervé.jpg">
+        <caption></caption>
+      </media>
+      <media name="un an de shampooing, boulier.JPG">
+        <caption>boulier, perles de cheveux, 20x18cm</caption>
+      </media>
+      <media name="feutres aimantés.JPG">
+        <caption>feutres aimantés</caption>
+      </media>
+      <media name="ballons de cravates.jpg">
+        <caption>ballons de cravates</caption>
+      </media>
+      <media name="Chemises.jpg">
+        <caption>Chemises</caption>
+      </media>
+      <media name="billes découpées.jpg">
+        <caption>Billes, ciseaux 25x25cm</caption>
+      </media>
+      <media name="feutres jouets.jpg">
+        <caption>Feutre coloré 30x27x5cm</caption>
+      </media>
+    </gallery>
+  </page>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+  <page>
+    <title>montage</title>
+    <gallery root="images">
+      <media name="champignons montage 2.jpg">
+        <caption>champignons montage 2</caption>
+      </media>
+      <media name="_champignons montage.jpg">
+        <caption>champignons montage</caption>
+      </media>
+      <media name="montage à hanzinelle.JPG">
+        <caption>Installation par un élagueur</caption>
+      </media>
+      <media name="IMG_2397.JPG">
+        <caption>Montage sur le site du CACLB à Montauban
+
+copyright Dominique Linel</caption>
+      </media>
+      <media name="montage montauban gouttes 2.JPG">
+        <caption>montage sur le site du CACLB à montauban
+
+copyright Dominique Linel</caption>
+      </media>
+      <media name="IMG_5329.JPG">
+        <caption>Montage de l'installation Paresseux à Montauban sur le site du CACLB</caption>
+      </media>
+      <media name="IMG_5339.JPG">
+        <caption>Montage de l'installation Paresseux à Montauban sur le site du CACLB</caption>
+      </media>
+    </gallery>
+  </page>

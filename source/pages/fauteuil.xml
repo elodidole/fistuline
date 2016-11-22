@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+  <page>
+    <title>fauteuil</title>
+    <gallery root="images">
+      <media name="_DSC9472.jpg">
+        <caption>fauteuils à bascule </caption>
+      </media>
+      <media name="fauteuilsbascule.jpg">
+        <caption>fauteuils à bascule</caption>
+      </media>
+      <media name="fauteuil fongique.jpg">
+        <caption>Installation, fauteuil et champignons en velours</caption>
+      </media>
+      <media name="grand fauteuil fongique.jpg">
+        <caption>Installation à Tourinnes-la-grosse, fauteuil, velours</caption>
+      </media>
+      <media name="fauteuil flottant.jpg">
+        <caption>Fauteuil, laine, technique mixte 112x72x80cm</caption>
+      </media>
+    </gallery>
+  </page>

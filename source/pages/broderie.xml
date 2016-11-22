@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+  <page>
+    <title>broderie</title>
+    <gallery root="images">
+      <media name="gaine buisson.JPG">
+        <caption></caption>
+      </media>
+      <media name="gaine utérus.JPG">
+        <caption></caption>
+      </media>
+      <media name="gaines brodées.jpg">
+        <caption></caption>
+      </media>
+      <media name="saint hubert installation.jpg">
+        <caption></caption>
+      </media>
+      <media name="bacilles en perspective.jpg">
+        <caption>Broderies, coton torsadé, cerceaux à broder</caption>
+      </media>
+      <media name="bacilles macro.jpg">
+        <caption>Broderie, détail</caption>
+      </media>
+      <media name="machine cousue 1.jpg">
+        <caption>Machine à coudre brodée</caption>
+      </media>
+      <media name="machine cousue 2.jpg">
+        <caption>Machine à coudre brodée</caption>
+      </media>
+      <media name="machine cousue 3.jpg">
+        <caption>Machine à coudre brodée</caption>
+      </media>
+    </gallery>
+  </page>

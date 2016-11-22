@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+  <page>
+    <title>extension</title>
+    <gallery root="images">
+      <media name="pull à deux places1.jpg">
+        <caption>Installation, pull </caption>
+      </media>
+      <media name="pull a deux places 2.JPG">
+        <caption>Installation, pull</caption>
+      </media>
+      <media name="pull à deux places 3.JPG">
+        <caption>Installation, pull</caption>
+      </media>
+      <media name="pull double.jpg">
+        <caption>Pull à porter seul ou à deux</caption>
+      </media>
+      <media name="la poilue.jpg">
+        <caption>Dessin sur carte à gratter</caption>
+      </media>
+      <media name="pont en dentelle aux fuseaux.jpg">
+        <caption>Dentelle noire aux fuseaux</caption>
+      </media>
+      <media name="_DSC9472.jpg">
+        <caption>fauteuils à bascule </caption>
+      </media>
+      <media name="fauteuilsbascule.jpg">
+        <caption>fauteuils à bascule</caption>
+      </media>
+      <media name="musée jurassien.JPG">
+        <caption>Installation au musée Jurassien, vue d'ensemble</caption>
+      </media>
+      <media name="tables et multiplication.JPG">
+        <caption>Installation au musée Jurassien</caption>
+      </media>
+      <media name="flacon c.jpg">
+        <caption>Dentelle aux fuseaux en fil noir</caption>
+      </media>
+      <media name="peigne chevelu noir.jpg">
+        <caption>Moulage en silicone, 60x18cm</caption>
+      </media>
+      <media name="fauteuil flottant.jpg">
+        <caption>Fauteuil, laine, technique mixte 112x72x80cm</caption>
+      </media>
+      <media name="brosse chevelue métallique.jpg">
+        <caption>Brosse, technique mixte 35x41x20cm</caption>
+      </media>
+      <media name="brosse chevelue 1.jpg">
+        <caption>Brosse, cheveux 20x20cm</caption>
+      </media>
+    </gallery>
+  </page>

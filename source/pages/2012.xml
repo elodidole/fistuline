@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+  <page>
+    <title>2012</title>
+    <gallery root="images">
+      <media name=" métaux lourds">
+        <caption>Installation, Villeneuve d'Ascq, lac des espagnols</caption>
+      </media>
+      <media name="canards.jpg">
+        <caption>Installation, villeneuve d'Ascq, (avec des invités surprise)</caption>
+      </media>
+      <media name="gouttes dorées rangées.JPG">
+        <caption>Gouttes dorées rangées dans mon atelier</caption>
+      </media>
+      <media name="métaux lourds détail.jpg">
+        <caption></caption>
+      </media>
+      <media name="dessin préparatoire cierges.jpg">
+        <caption>Cierges pascals déformés.</caption>
+      </media>
+      <media name="dents.JPG">
+        <caption>Molaires en feutre 10x10x30cm</caption>
+      </media>
+      <media name="petites dents.JPG">
+        <caption>Petites dents en feutre 2x4cm chaque</caption>
+      </media>
+      <media name="os.JPG">
+        <caption>Feutres rouges et blanc, 30x15cm chaque</caption>
+      </media>
+    </gallery>
+  </page>
