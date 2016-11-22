@@ -4,24 +4,20 @@
 
 
     <gallery root="images">
-
+      <media name="cerveau matelassé crème 2.jpg">
+        <caption>Lycra, coton, matelassage 33x25cm</caption>
+      </media>
       <media name="table avec feutres tranchés .jpg">
         <caption>Table de chirurgie et feutres tranchés rouge et blanc</caption>
-      </media>
-
-      
-
-      <media name="double feutre rouge.jpg">
-        <caption></caption>
-      </media>
-      <media name="oeuf matellassé.jpg">
-        <caption></caption>
       </media>
       <media name="bacilles en perspective.jpg">
         <caption>Broderies, coton torsadé, cerceaux à broder</caption>
       </media>
       <media name="bacilles macro.jpg">
         <caption>Broderie, détail</caption>
+      </media>
+      <media name="oeuf matellassé.jpg">
+        <caption></caption>
       </media>
       <media name="deux mousses oranges.JPG">
         <caption></caption>
@@ -154,11 +150,12 @@ copyright F Talairach</caption>
       <media name="maxi cosy.jpg">
         <caption>maxi cosy, velours, technique mixte 200x200cm</caption>
       </media>
-      <media name="cerveau matelassé crème 2.jpg">
-        <caption>Lycra, coton, matelassage 33x25cm</caption>
-      </media>
+
       <media name="giclure feutre et acrylique.jpg">
         <caption>Acrylique, feutre tranché dimension variable</caption>
+      </media>
+      <media name="double feutre rouge.jpg">
+        <caption></caption>
       </media>
     </gallery>
   </page>
