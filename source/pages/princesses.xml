@@ -2,20 +2,6 @@
   <page>
     <title>princesses</title>
     <gallery root="images">
-      <media name="cornes chanvre.jpg">
-        <caption>Chanvre tressé, toile de jute  140x70x27cm</caption>
-      </media>
-      <media name="trophée aux nattes chanvre.jpg">
-        <caption>Chanvre tressé, toile de jute, rembourrage 100x65x25cm</caption>
-      </media>
-      <media name="6.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
-      <media name="11.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
-      <media name="trophée aux chignons chanvre.jpg">
-        <caption>Chanvre, jute et rembourrage</caption>
       </media>
       <media name="princesse aux chignons chanvre.jpg">
         <caption>Chanvre, jute, rembourrage, bijou fantaisie 92x76x70cm</caption>
@@ -26,5 +12,19 @@
       <media name="princesse aux rubans.jpg">
         <caption>Chanvre, jute, rembourrage, rubans 130x40x40cm</caption>
       </media>
+      <media name="cornes chanvre.jpg">
+        <caption>Chanvre tressé, toile de jute  140x70x27cm</caption>
+      </media>
+      <media name="trophée aux chignons chanvre.jpg">
+        <caption>Chanvre, jute et rembourrage</caption>
+      </media>
+      <media name="trophée aux nattes chanvre.jpg">
+        <caption>Chanvre tressé, toile de jute, rembourrage 100x65x25cm</caption>
+      </media>
+      <media name="6.jpg">
+        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+      </media>
+      <media name="11.jpg">
+        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
     </gallery>
   </page>
