@@ -43,3 +43,4 @@ le site est maintenant visible a l'adresse [http://localhost:8000](http://localh
 ### ajouter des pages
 créer un nouveau fichier xml dans le dossier fistuline/source/pages sur atom
 J'utilise la page vide dans les pages je la complète et puis je référence son nom dans les datas en créant un nouveau, je le met ou je veux dans l'ordre.
+Pour enlever des pages je vais dans data, je les sélectionne et je fais shift/cmd/slash, ça les met en attente (non actives) je peux les remettre après en refaisant la même chose
