@@ -2,6 +2,13 @@
   <page>
     <title>broderie</title>
     <gallery root="images">
+
+      <media name="bacilles en perspective.jpg">
+        <caption>Broderies, coton torsadé, cerceaux à broder</caption>
+      </media>
+      <media name="bacilles macro.jpg">
+        <caption>Broderie, détail</caption>
+      </media>
       <media name="gaine buisson.JPG">
         <caption></caption>
       </media>
@@ -13,12 +20,6 @@
       </media>
       <media name="saint hubert installation.jpg">
         <caption></caption>
-      </media>
-      <media name="bacilles en perspective.jpg">
-        <caption>Broderies, coton torsadé, cerceaux à broder</caption>
-      </media>
-      <media name="bacilles macro.jpg">
-        <caption>Broderie, détail</caption>
       </media>
       <media name="machine cousue 1.jpg">
         <caption>Machine à coudre brodée</caption>

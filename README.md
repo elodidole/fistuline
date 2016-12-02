@@ -39,3 +39,7 @@ cd fistu-web && python -m http.server 8000
 ```
 
 le site est maintenant visible a l'adresse [http://localhost:8000](http://localhost:8000)
+
+### ajouter des pages
+créer un nouveau fichier xml dans le dossier fistuline/source/pages sur atom
+J'utilise la page vide dans les pages je la complète et puis je référence son nom dans les datas en créant un nouveau, je le met ou je veux dans l'ordre.

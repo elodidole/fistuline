@@ -2,7 +2,7 @@
   <page>
     <title>princesses</title>
     <gallery root="images">
-      </media>
+
       <media name="princesse aux chignons chanvre.jpg">
         <caption>Chanvre, jute, rembourrage, bijou fantaisie 92x76x70cm</caption>
       </media>
@@ -26,5 +26,7 @@
       </media>
       <media name="11.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        </media>
     </gallery>
+  
   </page>

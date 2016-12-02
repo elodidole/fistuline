@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+  <page>
+    <title>truc</title>
+
+<meta>chevelures méduses</meta>c'est le texte qui est à côté du nom de la page sous l'image à droite
+<info>dans mon atelier</info>c'est la texte qui apparait quand on clique sur la barre
+
+    <gallery root="images">
+
+      <media name="lorene.jpg">
+        <caption>lorène coud mes brols</caption>
+      </media>
+
+
+
+    </gallery>
+  </page>
