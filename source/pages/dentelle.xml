@@ -11,11 +11,14 @@
       <media name="grillage en dentelle.jpg">
         <caption></caption>
       </media>
+      <media name="pont en dentelle aux fuseaux.jpg">
+        <caption>Dentelle noire aux fuseaux</caption>
+      </media>
       <media name="dentelles/grandes_plateformes_petrolieres.jpg">
         <caption>dentelle au fuseau, fil noir</caption>
       </media>
-      <media name="pont en dentelle aux fuseaux.jpg">
-        <caption>Dentelle noire aux fuseaux</caption>
+      <media name="parachutiste.jpg">
+        <caption></caption>
       </media>
       <media name="_paysage nucléaire en dentelle 1.JPG">
         <caption>paysage nucléaire en dentelle 1</caption>
@@ -26,9 +29,7 @@
       <media name="cheminée nuage de fumée.jpg">
         <caption>cheminée et nuage en dentelle aux fuseaux, 1m10x75cm</caption>
       </media>
-      <media name="parachutiste.jpg">
-        <caption></caption>
-      </media>
+
       <media name="petite dentelles abstraites-s.jpg">
         <caption></caption>
       </media>
@@ -49,14 +50,14 @@
       <media name="flacon c.jpg">
         <caption>Dentelle aux fuseaux en fil noir</caption>
       </media>
-      <media name="grandes_plateformes_petrolieres.jpg">
+      <!-- <media name="grandes_plateformes_petrolieres.jpg">
         <caption>Dentelle aux fuseaux en fil noir, 1,40mx50cm</caption>
-      </media>
+      </media> -->
       <media name="grillage affaissé.jpg">
         <caption>Grillage en dentelle aux fuseaux, 126x24cm</caption>
       </media>
-      <media name="plateforme pétrolière.jpg">
+      <!-- <media name="plateforme pétrolière.jpg">
         <caption>Plateforme pétrolière en dentelle aux fuseaux</caption>
-      </media>
+      </media> -->
     </gallery>
   </page>

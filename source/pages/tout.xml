@@ -71,9 +71,9 @@
       <media name="couvre-lit surpiqué.jpg">
         <caption></caption>
       </media>
-      <media name="double feutre rouge.jpg">
+      <!-- <media name="double feutre rouge.jpg">
         <caption></caption>
-      </media>
+      </media> -->
       <media name="elodidoles empilées.JPG">
         <caption></caption>
       </media>
@@ -339,7 +339,7 @@ copyright F Talairach</caption>
       <media name="métaux lourds détail.jpg">
         <caption></caption>
       </media>
-      <media name="dessin préparatoire cierges.jpg">
+      <media name="dessin_preparatoire_cierges.jpg">
         <caption>Cierges pascals déformés.</caption>
       </media>
       <media name="dents.JPG">
@@ -442,7 +442,7 @@ copyright Dominique Linel</caption>
       <media name="trophée aux nattes chanvre.jpg">
         <caption>Chanvre tressé, toile de jute, rembourrage 100x65x25cm</caption>
       </media>
-      <media name="appendicite tutu .jpg">
+      <media name="la_crise_d_appendicite.jpg">
         <caption>Juste au corps, matelassage, paillettes rouges 48x40cm</caption>
       </media>
       <media name="2.jpg">

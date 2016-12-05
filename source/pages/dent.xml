@@ -2,12 +2,7 @@
   <page>
     <title>dent</title>
     <gallery root="images">
-      <media name="dents.JPG">
-        <caption>Molaires en feutre 10x10x30cm</caption>
-      </media>
-      <media name="petites dents.JPG">
-        <caption>Petites dents en feutre 2x4cm chaque</caption>
-      </media>
+
       <media name="billes mordues 2.jpg">
         <caption>Billes, mâchoire moulée, feuille d'or 20x15cm</caption>
       </media>
@@ -18,8 +13,6 @@
       <media name="écrin de chewing gums.jpg">
         <caption>chewing gums en verre colorés, boÃ®te entoilée 31,5x13x5,4cm </caption>
       </media>
-      <media name="9.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
+
     </gallery>
   </page>

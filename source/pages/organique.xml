@@ -30,9 +30,9 @@
       </media>
       <media name="feutres en grappe.jpg">
         <caption></caption>
-      </media>
+      <!-- </media>
       <media name="feutre rouge à queue.JPG">
-        <caption></caption>
+        <caption></caption> -->
       </media>
       <media name="feutres rouges et noirs.jpg">
         <caption></caption>
@@ -144,7 +144,7 @@ copyright F Talairach</caption>
       <media name="concrétion feutre enduit 3.jpg">
         <caption>Feutre, acrylique 25x13cm</caption>
       </media>
-      <media name="appendicite tutu .jpg">
+      <media name="la_crise_d_appendicite.jpg">
         <caption>Juste au corps, matelassage, paillettes rouges 48x40cm</caption>
       </media>
       <media name="maxi cosy.jpg">
@@ -153,9 +153,9 @@ copyright F Talairach</caption>
 
       <media name="giclure feutre et acrylique.jpg">
         <caption>Acrylique, feutre tranché dimension variable</caption>
-      </media>
+      <!-- </media>
       <media name="double feutre rouge.jpg">
-        <caption></caption>
+        <caption></caption> -->
       </media>
     </gallery>
   </page>

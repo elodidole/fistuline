@@ -1,25 +1,9 @@
 <?xml version="1.0" ?>
   <page>
-    <title>éclaboussure</title>
+    <title>contaminations</title>
     <gallery root="images">
-      <media name="test évier.JPG">
-        <caption>évier, simili cuir, bouton à l'endroit d'impact de l'eau</caption>
-      </media>
-      <media name="DSC_1136.JPG">
-        <caption>Détail</caption>
-      </media>
-      <media name="_MG_0325.jpg">
-        <caption>Installation, banc, velours bordeau et textile doré
-copyright F Talairach</caption>
-      </media>
-      <media name="_MG_0332.jpg">
-        <caption>Banc, graines en velours bordeaux
-copyright F Talairach</caption>
-      </media>
-      <media name="_MG_0359.jpg">
-        <caption>moisissures dorées
-copyright F Talairach</caption>
-      </media>
+
+
       <media name="DSC06248.JPG">
         <caption>Installation au Musée Jurassien, chaises, textile</caption>
       </media>
@@ -42,15 +26,15 @@ copyright F Talairach</caption>
       <media name="P1000340.JPG">
         <caption>Installation in situ à Tourinnes-la-grosse</caption>
       </media>
-      <media name="P1000362.JPG">
+      <!-- <media name="P1000362.JPG">
         <caption>Installation in situ à Tourinnes-la-grosse</caption>
-      </media>
+      </media> -->
       <media name="metaux_lourds.jpg">
         <caption>Installation, Villeneuve d'Ascq, lac des espagnols</caption>
       </media>
-      <media name="gouttes dorées rangées.JPG">
+      <!-- <media name="gouttes dorées rangées.JPG">
         <caption>Gouttes dorées rangées dans mon atelier</caption>
-      </media>
+      </media> -->
       <media name="métaux lourds détail.jpg">
         <caption></caption>
       </media>
@@ -66,6 +50,18 @@ copyright Dominique Linel</caption>
       </media>
       <media name="giclure feutre et acrylique.jpg">
         <caption>Acrylique, feutre tranché dimension variable</caption>
+      </media>
+      <media name="_MG_0325.jpg">
+        <caption>Installation, banc, velours bordeau et textile doré
+copyright F Talairach</caption>
+      </media>
+      <media name="_MG_0332.jpg">
+        <caption>Banc, graines en velours bordeaux
+copyright F Talairach</caption>
+      </media>
+      <media name="_MG_0359.jpg">
+        <caption>moisissures dorées
+copyright F Talairach</caption>
       </media>
     </gallery>
   </page>

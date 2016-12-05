@@ -2,42 +2,6 @@
   <page>
     <title>animal</title>
     <gallery root="images">
-      <media name="larve.jpg">
-        <caption></caption>
-      </media>
-      <media name="bacilles en perspective.jpg">
-        <caption>Broderies, coton torsadé, cerceaux à broder</caption>
-      </media>
-      <media name="bacilles macro.jpg">
-        <caption>Broderie, détail</caption>
-      </media>
-      <media name="la poilue.jpg">
-        <caption>Dessin sur carte à gratter</caption>
-      </media>
-      <media name="gospels.JPG">
-        <caption></caption>
-      </media>
-      <media name="petite dentelles abstraites-s.jpg">
-        <caption></caption>
-      </media>
-      <media name="tapis bulbeux.jpg">
-        <caption>Vue de la galerie Frederic Desimpel, Bruxelles</caption>
-      </media>
-      <media name="terrier d'Alice.jpg">
-        <caption>terrier en tapis de laine blanche</caption>
-      </media>
-      <media name="feutre tranché.jpg">
-        <caption>Feutre rouge et blanc tranché</caption>
-      </media>
-      <media name="canards.jpg">
-        <caption>Installation, villeneuve d'Ascq, (avec des invités surprise)</caption>
-      </media>
-      <media name="os.JPG">
-        <caption>Feutres rouges et blanc, 30x15cm chaque</caption>
-      </media>
-      <media name="DSC07032.jpg">
-        <caption>Installation à &quot;La Charcuterie&quot; Saint gilles</caption>
-      </media>
       <media name="IMG_5329.JPG">
         <caption>Montage de l'installation Paresseux à Montauban sur le site du CACLB</caption>
       </media>
@@ -50,6 +14,43 @@
       <media name="paresseux blanc.jpg">
         <caption>Sculptures en fourrure installées sur le site du CACLB à Montauban</caption>
       </media>
+      <media name="larve.jpg">
+        <caption></caption>
+      </media>
+      <!-- <media name="bacilles en perspective.jpg">
+        <caption>Broderies, coton torsadé, cerceaux à broder</caption>
+      </media>
+      <media name="bacilles macro.jpg">
+        <caption>Broderie, détail</caption>
+      </media>
+      <media name="la_poilue1.jpg">
+        <caption>Dessin sur carte à gratter</caption>
+      </media> -->
+      <media name="gospels.JPG">
+        <caption></caption>
+      </media>
+      <media name="petite dentelles abstraites-s.jpg">
+        <caption></caption>
+      </media>
+      <media name="tapis bulbeux.jpg">
+        <caption>Vue de la galerie Frederic Desimpel, Bruxelles</caption>
+      </media>
+      <media name="terrier d'Alice.jpg">
+        <caption>terrier en tapis de laine blanche</caption>
+      </media>
+      <!-- <media name="feutre tranché.jpg">
+        <caption>Feutre rouge et blanc tranché</caption>
+      </media> -->
+      <media name="canards.jpg">
+        <caption>Installation, villeneuve d'Ascq, (avec des invités surprise)</caption>
+      </media>
+      <!-- <media name="os.JPG">
+        <caption>Feutres rouges et blanc, 30x15cm chaque</caption>
+      </media>
+      <media name="DSC07032.jpg">
+        <caption>Installation à &quot;La Charcuterie&quot; Saint gilles</caption>
+      </media> -->
+
       <media name="2013-10-22 15.19.35.jpg">
         <caption>Sculpture en fourrure</caption>
       </media>

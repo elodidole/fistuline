@@ -2,12 +2,12 @@
   <page>
     <title>gouttes</title>
     <gallery root="images">
-      <media name="test évier.JPG">
+      <!-- <media name="test évier.JPG">
         <caption>évier, simili cuir, bouton à l'endroit d'impact de l'eau</caption>
       </media>
       <media name="DSC_1136.JPG">
         <caption>Détail</caption>
-      </media>
+      </media> -->
       <media name="DSC05462.JPG">
         <caption>Installation, gouttes dorées, Tourinnes-la-grosse</caption>
       </media>

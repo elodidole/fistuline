@@ -2,7 +2,11 @@
   <page>
     <title>aeroplastics</title>
     <gallery root="images">
+      <media name="17.jpg">
+        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+      </media>
       <media name="2.jpg">
+
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
       <media name="3.jpg">
@@ -13,7 +17,6 @@
       </media>
       <media name="5.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery
-
 
 </caption>
       </media>
@@ -53,9 +56,7 @@
       <media name="16.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
-      <media name="17.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
+
       <media name="18.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>

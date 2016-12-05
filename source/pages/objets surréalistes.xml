@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
   <page>
-    <title>objet</title>
+    <title>objets surréalistes</title>
     <gallery root="images">
+      <media name="billes découpées.jpg">
+        <caption>Billes, ciseaux 25x25cm</caption>
+      </media>
       <media name="culbuto .jpg">
         <caption></caption>
       </media>
@@ -17,7 +20,10 @@
       <media name="peigne chevelu.jpg">
         <caption></caption>
       </media>
-      <media name="saint hubert installation.jpg">
+      <media name="gant digital.jpg">
+        <caption>Gant, tissus éponge 20x14x5cm</caption>
+      </media>
+      <media name="brosse chevelue métallique.jpg">
         <caption></caption>
       </media>
       <media name="un an de shampooing, boulier.JPG">
@@ -29,10 +35,25 @@
       <media name="zip thorax.JPG">
         <caption>Thorax en fermetures éclairs, 30x20cm</caption>
       </media>
-      <media name="cadre rose.jpg">
-        <caption>cadre rose</caption>
+      <media name="test évier.JPG">
+        <caption>évier, simili cuir, bouton à l'endroit d'impact de l'eau</caption>
       </media>
-      <media name="_DSC9472.jpg">
+      <media name="DSC_1136.JPG">
+        <caption>Détail</caption>
+      </media>
+      <media name="dents.JPG">
+        <caption>Molaires en feutre 10x10x30cm</caption>
+      </media>
+      <media name="petites dents.JPG">
+        <caption>Petites dents en feutre 2x4cm chaque</caption>
+      </media>
+      <media name="9.jpg">
+        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+      </media>
+      <!-- <media name="cadre rose.jpg">
+        <caption>cadre rose</caption>
+      </media> -->
+      <!-- <media name="_DSC9472.jpg">
         <caption>fauteuils à bascule </caption>
       </media>
       <media name="fauteuilsbascule.jpg">
@@ -40,13 +61,13 @@
       </media>
       <media name="fauteuil fongique.jpg">
         <caption>Installation, fauteuil et champignons en velours</caption>
-      </media>
+      </media> -->
       <media name="DSC06369.JPG">
         <caption>Feutre blanc perforé, porte-manteau</caption>
       </media>
-      <media name="dessin préparatoire cierges.jpg">
+      <!-- <media name="dessin_preparatoire_cierges.jpg">
         <caption>Cierges pascals déformés.</caption>
-      </media>
+      </media> -->
       <media name="lipstick doré.jpg">
         <caption>Rouge à lèvre moulé en forme de mèche à béton</caption>
       </media>

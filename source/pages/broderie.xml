@@ -9,16 +9,14 @@
       <media name="bacilles macro.jpg">
         <caption>Broderie, détail</caption>
       </media>
-      <media name="gaine buisson.JPG">
+      <media name="la_crise_d_appendicite.jpg">
+        <caption>Broderie, détail</caption>
+      </media>
+
+      <media name="cerveau matelassé crème 2.jpg">
         <caption></caption>
       </media>
-      <media name="gaine utérus.JPG">
-        <caption></caption>
-      </media>
-      <media name="gaines brodées.jpg">
-        <caption></caption>
-      </media>
-      <media name="saint hubert installation.jpg">
+      <media name="coeur_matelasse.jpg">
         <caption></caption>
       </media>
       <media name="machine cousue 1.jpg">
@@ -29,6 +27,12 @@
       </media>
       <media name="machine cousue 3.jpg">
         <caption>Machine à coudre brodée</caption>
+      </media>
+      <media name="gaine buisson.JPG">
+        <caption></caption>
+      </media>
+      <media name="gaine utérus.JPG">
+        <caption></caption>
       </media>
     </gallery>
   </page>

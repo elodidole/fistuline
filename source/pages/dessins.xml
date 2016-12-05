@@ -1,22 +1,36 @@
 <?xml version="1.0" ?>
   <page>
-    <title>prolifération</title>
+    <title>dessins</title>
     <gallery root="images">
-      <media name="bacilles en perspective.jpg">
+      <!-- <media name="bacilles en perspective.jpg">
         <caption>Broderies, coton torsadé, cerceaux à broder</caption>
       </media>
       <media name="bacilles macro.jpg">
         <caption>Broderie, détail</caption>
-      </media>
-      <media name="la poilue.jpg">
+      </media> -->
+      <media name="la_poilue1.jpg">
         <caption>Dessin sur carte à gratter</caption>
       </media>
-      <media name="kunst&amp;zwalm.jpg">
+      <media name="la_poilue2.jpg">
+        <caption>Dessin sur carte à gratter</caption>
+      </media>
+      <media name="dessin_preparatoire_cierges.jpg">
+        <caption>dessin préparatoire cierges</caption>
+      </media>
+      <media name="carte_a_gratter1.jpg">
+        <caption>Dessin sur carte à gratter</caption>
+      </media>
+
+      <media name="carte_a_gratter2.jpg">
+        <caption>Dessin sur carte à gratter</caption>
+      </media>
+      <media name="carte_a_gratter3.jpg">
+        <caption>Dessin sur carte à gratter</caption>
+      </media>
+      <!-- <media name="kunst&amp;zwalm.jpg">
         <caption>collection de champignons textiles, été 2007</caption>
       </media>
-      <media name="cadre rose.jpg">
-        <caption>cadre rose</caption>
-      </media>
+
       <media name="chaises roses.jpg">
         <caption>Installation, chaises matelassée, velours rose et excroissances.</caption>
       </media>
@@ -89,6 +103,6 @@ copyright F Talairach</caption>
       </media>
       <media name="maxi cosy.jpg">
         <caption>maxi cosy, velours, technique mixte 200x200cm</caption>
-      </media>
+      </media> -->
     </gallery>
   </page>
