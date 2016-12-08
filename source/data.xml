@@ -27,7 +27,7 @@
 <page href="pages/cheveux.xml" />
 <page href="pages/dentelle.xml" />
 <page href="pages/feutre.xml" />
-
+<page href="pages/objet.xml" />
 <page href="pages/organique.xml" />
 <page href="pages/grotesque.xml" />
 <page href="pages/extension.xml" />
@@ -51,7 +51,7 @@
 <page href="pages/gouttes.xml" />
 
 <page href="pages/aeroplastics.xml" />
-<page href="pages/objet.xml" />
+
 <page href="pages/moulure.xml" />
 <page href="pages/installation.xml" />
 <page href="pages/rouge.xml" />
