@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
   <page>
     <title>fauteuils et chaises</title>
-    <gallery root="images">
+    <gallery root="images/fauteuils et chaises">
 
       <media name="chaise turgescente.jpg">
         <caption>chaise turgescente</caption>
@@ -37,15 +37,12 @@
       <media name="_velvet contamination 1.jpg">
         <caption>velvet contamination 1</caption>
       </media>
-      <media name="_MG_0325.jpg">
-        <caption>Installation, banc, velours bordeau et textile doré
-copyright F Talairach</caption>
-      </media>
+
       <media name="_MG_0332.jpg">
         <caption>Banc, graines en velours bordeaux
 copyright F Talairach</caption>
       </media>
-      <media name="DSC06248.JPG">
+      <media name="contamination florale.JPG">
         <caption>Installation au Musée Jurassien, chaises, textile</caption>
       </media>
       <media name="grand fauteuil fongique.jpg">

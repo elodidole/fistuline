@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
   <page>
     <title>broderie</title>
-    <gallery root="images">
+    <gallery root="images/broderies">
 
       <media name="bacilles en perspective.jpg">
         <caption>Broderies, coton torsadé, cerceaux à broder</caption>
