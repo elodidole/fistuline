@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
   <page>
-    <title>princesses</title>
+    <title>chevelures</title>
 
 
 <meta></meta>c'est le texte qui est à côté du nom de la page sous l'image à droite
 <info>Sculptures en coton et chanvre cousu</info>c'est la texte qui apparait quand on clique sur la barre
 
-    <gallery root="images">
+    <gallery root="images/chevelures">
 
         <media name="princesse_au_diademe_detail.jpg">
           <caption>Chanvre, jute, rembourrage, bijou fantaisie 92x76x70cm</caption>
@@ -39,7 +39,7 @@
       <media name="trophée aux nattes chanvre.jpg">
         <caption>Chanvre tressé, toile de jute, rembourrage 100x65x25cm</caption>
       </media>
-    
+
     </gallery>
 
   </page>

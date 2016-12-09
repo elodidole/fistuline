@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
   <page>
     <title>vêtement</title>
-    <gallery root="images">
+    <gallery root="images/vêtements">
       <media name="chemisier yeux boutonnés.jpg">
         <caption></caption>
       </media>
@@ -53,7 +53,6 @@
         <caption>ballons de cravates</caption>
       </media>
 
-
       <media name="pull double.jpg">
         <caption>Pull à porter seul ou à deux</caption>
       </media>
@@ -66,9 +65,7 @@
       <media name="pull à deux places 3.JPG">
         <caption>Installation, pull</caption>
       </media>
-      <media name="aeroplastics/2.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
+
 
     </gallery>
   </page>
