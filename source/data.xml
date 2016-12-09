@@ -26,7 +26,7 @@
 <page href="pages/2016.xml" /> -->
 
 <page href="pages/dentelle.xml" />
-<page href="pages/feutre.xml" />
+<page href="pages/feutres.xml" />
 <page href="pages/objets.xml" />
 <!-- <page href="pages/organique.xml" />
 <page href="pages/extension.xml" /> -->
@@ -46,6 +46,7 @@
 <page href="pages/doré.xml" /> -->
 <page href="pages/animal.xml" />
 <page href="pages/montage.xml" />
+<page href="pages/dessins.xml" />
 
 <!-- <page href="pages/gouttes.xml" /> -->
 
