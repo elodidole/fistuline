@@ -2,21 +2,20 @@
   <page>
     <title>champignons</title>
     <gallery root="images">
-      <media name="champignons montage 2.jpg">
-        <caption>champignons montage 2</caption>
-      </media>
-      <media name="_champignons montage.jpg">
-        <caption>champignons montage</caption>
-      </media>
+
       <media name="_champignons textiles 1.JPG">
         <caption>Kunst&amp;Zwalm biennale</caption>
       </media>
       <media name="champignons textiles 2.JPG">
         <caption>Kunst&amp;Zwalm biennale</caption>
       </media>
-      <media name="excroissance longue.jpg">
-        <caption>excroissance longue</caption>
+      <media name="champignons montage 2.jpg">
+        <caption>champignons montage 2</caption>
       </media>
+      <media name="_champignons montage.jpg">
+        <caption>champignons montage</caption>
+      </media>
+
       <media name="kunst&amp;zwalm.jpg">
         <caption>collection de champignons textiles, été 2007</caption>
       </media>
@@ -30,9 +29,9 @@ copyright F Talairach</caption>
       <media name="fauteuil fongique.jpg">
         <caption>Installation, fauteuil et champignons en velours</caption>
       </media>
-      <media name="montage à hanzinelle.JPG">
+      <!-- <media name="montage à hanzinelle.JPG">
         <caption>Installation par un élagueur</caption>
-      </media>
+      </media> -->
       <media name="champignon léopard.JPG">
         <caption>Installation au domaine d'Hanzinelle de M Hayez</caption>
       </media>
@@ -41,6 +40,9 @@ copyright F Talairach</caption>
       </media>
       <media name="arbre d'été.jpg">
         <caption>Installation à Wanze</caption>
+      </media>
+      <media name="excroissance longue.jpg">
+        <caption>excroissance longue</caption>
       </media>
     </gallery>
   </page>

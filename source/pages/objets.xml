@@ -2,17 +2,19 @@
   <page>
     <title>objets</title>
     <gallery root="images">
-      <media name="billes découpées.jpg">
-        <caption>Billes, ciseaux 25x25cm</caption>
+
+      <media name="lipstick doré.jpg">
+        <caption>Rouge à lèvre moulé en forme de mèche à béton</caption>
       </media>
+
       <media name="culbuto .jpg">
         <caption></caption>
       </media>
       <media name="faux cils en hameçons.jpg">
         <caption></caption>
       </media>
-      <media name="lipstick.jpg">
-        <caption>Rouge à lèvres moulé en forme de mèche à béton</caption>
+      <media name="billes découpées.jpg">
+        <caption>Billes, ciseaux 25x25cm</caption>
       </media>
       <media name="bobine de cheveux2.jpg">
         <caption>Bobine de fil réalisé en filant mes cheveux.</caption>
@@ -41,6 +43,9 @@
       <media name="DSC_1136.JPG">
         <caption>Détail</caption>
       </media>
+      <media name="maxi cosy.jpg">
+        <caption>maxi cosy, velours, technique mixte 200x200cm</caption>
+      </media>
       <media name="dents.JPG">
         <caption>Molaires en feutre 10x10x30cm</caption>
       </media>
@@ -50,6 +55,9 @@
       <media name="9.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
+      <!-- <media name="lipstick.jpg">
+        <caption>Rouge à lèvres moulé en forme de mèche à béton</caption>
+      </media> -->
       <!-- <media name="cadre rose.jpg">
         <caption>cadre rose</caption>
       </media> -->
@@ -62,15 +70,13 @@
       <media name="fauteuil fongique.jpg">
         <caption>Installation, fauteuil et champignons en velours</caption>
       </media> -->
-      <media name="DSC06369.JPG">
+      <!-- <media name="DSC06369.JPG">
         <caption>Feutre blanc perforé, porte-manteau</caption>
-      </media>
+      </media> -->
       <!-- <media name="dessin_preparatoire_cierges.jpg">
         <caption>Cierges pascals déformés.</caption>
       </media> -->
-      <media name="lipstick doré.jpg">
-        <caption>Rouge à lèvre moulé en forme de mèche à béton</caption>
-      </media>
+
       <media name="billes mordues 2.jpg">
         <caption>Billes, mâchoire moulée, feuille d'or 20x15cm</caption>
       </media>

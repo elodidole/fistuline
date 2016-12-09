@@ -2,17 +2,27 @@
   <page>
     <title>animal</title>
     <gallery root="images">
-      <media name="IMG_5329.JPG">
-        <caption>Montage de l'installation Paresseux à Montauban sur le site du CACLB</caption>
+      <media name="2013-10-22 15.19.35.jpg">
+        <caption>Sculpture en fourrure</caption>
       </media>
+      <media name="2013-10-22 15.20.12.jpg">
+        <caption>Sculpture en fourrure</caption>
+      </media>
+      <!-- <media name="IMG_5329.JPG">
+        <caption>Montage de l'installation Paresseux à Montauban sur le site du CACLB</caption>
+      </media> -->
       <media name="IMG_5339.JPG">
         <caption>Montage de l'installation Paresseux à Montauban sur le site du CACLB</caption>
+      </media>
+
+      <media name="paresseux blanc.jpg">
+        <caption>Sculptures en fourrure installées sur le site du CACLB à Montauban</caption>
       </media>
       <media name="paresseux.jpg">
         <caption>Sculpture en fourrure, installées sur le site du CACLB à Montauban</caption>
       </media>
-      <media name="paresseux blanc.jpg">
-        <caption>Sculptures en fourrure installées sur le site du CACLB à Montauban</caption>
+      <media name="16.jpg">
+        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
       <media name="larve.jpg">
         <caption></caption>
@@ -26,9 +36,9 @@
       <media name="la_poilue1.jpg">
         <caption>Dessin sur carte à gratter</caption>
       </media> -->
-      <media name="gospels.JPG">
+      <!-- <media name="gospels.JPG">
         <caption></caption>
-      </media>
+      </media> -->
       <media name="petite dentelles abstraites-s.jpg">
         <caption></caption>
       </media>
@@ -51,20 +61,11 @@
         <caption>Installation à &quot;La Charcuterie&quot; Saint gilles</caption>
       </media> -->
 
-      <media name="2013-10-22 15.19.35.jpg">
-        <caption>Sculpture en fourrure</caption>
-      </media>
-      <media name="2013-10-22 15.20.12.jpg">
-        <caption>Sculpture en fourrure</caption>
-      </media>
-      <media name="cornes chanvre.jpg">
+
+      <!-- <media name="cornes chanvre.jpg">
         <caption>Chanvre tressé, toile de jute  140x70x27cm</caption>
-      </media>
-      <media name="maxi cosy.jpg">
-        <caption>maxi cosy, velours, technique mixte 200x200cm</caption>
-      </media>
-      <media name="16.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
+      </media> -->
+
+
     </gallery>
   </page>
