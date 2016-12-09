@@ -6,7 +6,7 @@
       Ou il est question de dentelles
     </info>
 
-    <gallery root="images">
+    <gallery root="images/dentelles">
 
       <media name="grillage en dentelle.jpg">
         <caption></caption>
@@ -14,7 +14,7 @@
       <media name="pont en dentelle aux fuseaux.jpg">
         <caption>Dentelle noire aux fuseaux</caption>
       </media>
-      <media name="dentelles/grandes_plateformes_petrolieres.jpg">
+      <media name="grandes_plateformes_petrolieres.jpg">
         <caption>dentelle au fuseau, fil noir</caption>
       </media>
       <media name="parachutiste.jpg">

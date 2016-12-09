@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
   <page>
     <title>feutre</title>
-    <gallery root="images">
+    <gallery root="images/feutres">
       <media name="feutre tranché.jpg">
         <caption>Feutre rouge et blanc tranché</caption>
       </media>
@@ -35,9 +35,7 @@
       <media name="3 feutres noirs à clous.jpg">
         <caption>3 feutres noirs à clous</caption>
       </media>
-      <media name="petites dents.JPG">
-        <caption>Petites dents en feutre 2x4cm chaque</caption>
-      </media>
+      
       <media name="feutres aimantés.JPG">
         <caption>feutres aimantés</caption>
       </media>
@@ -116,15 +114,11 @@
         <caption>Feutre, acrylique14x14cm</caption>
       </media>
 
-      <media name="un an de shampooing, boulier.JPG">
-        <caption>boulier, perles de cheveux, 20x18cm</caption>
-      </media>
+
 
       <media name="feutre blanc fendu.jpg">
         <caption></caption>
       </media>
-      <media name="aeroplastics/7.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
+
     </gallery>
   </page>
