@@ -2,16 +2,18 @@
   <page>
     <title>aeroplastics</title>
     <gallery root="images/aeroplastics">
-      <media name="17.jpg">
+      <!-- <media name="17.jpg">
+        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+      </media> -->
+      <media name="1.jpg">
+
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
       <media name="2.jpg">
 
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
-      <media name="3.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
+
       <media name="4.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
@@ -41,12 +43,10 @@
       <media name="12.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
-      <media name="1.jpg">
+      <!-- <media name="1.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
-      <media name="13.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
+      </media> -->
+
       <media name="14.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
@@ -58,6 +58,17 @@
       </media>
 
       <media name="18.jpg">
+        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+      </media>
+    
+      <media name="20.jpg">
+        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+      </media>
+
+      <media name="22.jpg">
+        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+      </media>
+      <media name="21.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
     </gallery>
