@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
   <page>
     <title>dessins</title>
-    <gallery root="images">
-      
+    <gallery root="images/dessins">
+
       <media name="la_poilue1.jpg">
         <caption>Dessin sur carte à gratter</caption>
       </media>

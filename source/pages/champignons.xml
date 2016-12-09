@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
   <page>
     <title>champignons</title>
-    <gallery root="images">
+    <gallery root="images/champignons">
 
       <media name="_champignons textiles 1.JPG">
         <caption>Kunst&amp;Zwalm biennale</caption>
@@ -9,20 +9,14 @@
       <media name="champignons textiles 2.JPG">
         <caption>Kunst&amp;Zwalm biennale</caption>
       </media>
-      <media name="champignons montage 2.jpg">
-        <caption>champignons montage 2</caption>
-      </media>
-      <media name="_champignons montage.jpg">
-        <caption>champignons montage</caption>
+      <media name="deux mousses oranges.JPG">
+        <caption>Kunst&amp;Zwalm biennale</caption>
       </media>
 
       <media name="kunst&amp;zwalm.jpg">
         <caption>collection de champignons textiles, été 2007</caption>
       </media>
-      <media name="_MG_0359.jpg">
-        <caption>moisissures dorées
-copyright F Talairach</caption>
-      </media>
+
       <media name="champ.jpg">
         <caption>Champignon parasité, galerie Kurt&amp;Kelly</caption>
       </media>
@@ -43,6 +37,10 @@ copyright F Talairach</caption>
       </media>
       <media name="excroissance longue.jpg">
         <caption>excroissance longue</caption>
+      </media>
+      <media name="_MG_0359.jpg">
+        <caption>moisissures dorées
+copyright F Talairach</caption>
       </media>
     </gallery>
   </page>

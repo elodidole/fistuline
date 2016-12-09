@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
   <page>
     <title>contaminations</title>
-    <gallery root="images">
+    <gallery root="images/contamination">
 
 
-      
+
       <media name="DSC05462.JPG">
         <caption>Installation, gouttes dorées, Tourinnes-la-grosse</caption>
       </media>

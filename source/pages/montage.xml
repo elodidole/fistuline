@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
   <page>
     <title>montage</title>
-    <gallery root="images">
+    <gallery root="images/montage">
 
       <media name="surlelac.JPG">
         <caption>Montage sur le site du CACLB à Montauban copyright Dominique Linel</caption>
