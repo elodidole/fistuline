@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
   <page>
     <title>objets</title>
-    <gallery root="images">
+    <gallery root="images/objets">
 
       <media name="lipstick doré.jpg">
         <caption>Rouge à lèvre moulé en forme de mèche à béton</caption>
@@ -28,7 +28,7 @@
       <media name="brosse chevelue métallique.jpg">
         <caption></caption>
       </media>
-      <media name="objets/un an de shampooing, boulier.JPG">
+      <media name="un an de shampooing, boulier.JPG">
         <caption>boulier, perles de cheveux, 20x18cm</caption>
       </media>
       <media name="ballons de cravates.jpg">
@@ -46,13 +46,12 @@
       <media name="maxi cosy.jpg">
         <caption>maxi cosy, velours, technique mixte 200x200cm</caption>
       </media>
-    
+
+
       <media name="petites dents.JPG">
         <caption>Petites dents en feutre 2x4cm chaque</caption>
       </media>
-      <media name="aeroplastics/9.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
+
       <!-- <media name="lipstick.jpg">
         <caption>Rouge à lèvres moulé en forme de mèche à béton</caption>
       </media> -->
