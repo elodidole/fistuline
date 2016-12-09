@@ -24,48 +24,44 @@
 <page href="pages/2014.xml" />
 <page href="pages/2015.xml" />
 <page href="pages/2016.xml" /> -->
-<page href="pages/cheveux.xml" />
+
 <page href="pages/dentelle.xml" />
 <page href="pages/feutre.xml" />
-<page href="pages/objet.xml" />
-<page href="pages/organique.xml" />
-<page href="pages/grotesque.xml" />
-<page href="pages/extension.xml" />
-<page href="pages/fauteuil.xml" />
-<page href="pages/découpe.xml" />
-<page href="pages/trou.xml" />
+<page href="pages/objets.xml" />
+<!-- <page href="pages/organique.xml" />
+<page href="pages/extension.xml" /> -->
+<page href="pages/fauteuils et chaises.xml" />
+<!-- <page href="pages/découpe.xml" />
+<page href="pages/trou.xml" /> -->
 <page href="pages/broderie.xml" />
-<page href="pages/prolifération.xml" />
-<page href="pages/excroissance.xml" />
-<page href="pages/blanc.xml" />
+<page href="pages/contaminations.xml" />
+<!-- <page href="pages/excroissance.xml" />
+<page href="pages/blanc.xml" /> -->
 <page href="pages/princesses.xml" />
 <page href="pages/en plein air.xml" />
 <page href="pages/vêtement.xml" />
 <page href="pages/champignons.xml" />
-<page href="pages/éclaboussure.xml" />
-<page href="pages/modulable.xml" />
-<page href="pages/doré.xml" />
+
+<!-- <page href="pages/modulable.xml" />
+<page href="pages/doré.xml" /> -->
 <page href="pages/animal.xml" />
 <page href="pages/montage.xml" />
 
-<page href="pages/gouttes.xml" />
+<!-- <page href="pages/gouttes.xml" /> -->
 
 <page href="pages/aeroplastics.xml" />
 
-<page href="pages/moulure.xml" />
-<page href="pages/installation.xml" />
-<page href="pages/rouge.xml" />
 
-<page href="pages/dent.xml" />
-<page href="pages/salle de bain.xml" />
+<!-- <page href="pages/dent.xml" />
+
 <page href="pages/verre.xml" />
 <page href="pages/chaise.xml" />
-<page href="pages/jeu.xml" />
+<page href="pages/jeu.xml" /> -->
 
 
 
 
-    <page href="pages/tout.xml" />
+    <!-- <page href="pages/tout.xml" /> -->
 
     <asset>
         <from path="js/lodash.js"/>
