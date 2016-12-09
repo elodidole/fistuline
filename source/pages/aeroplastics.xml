@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
   <page>
     <title>aeroplastics</title>
-    <gallery root="images">
+    <gallery root="images/aeroplastics">
       <media name="17.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>

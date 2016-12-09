@@ -52,7 +52,7 @@
       <media name="petites dents.JPG">
         <caption>Petites dents en feutre 2x4cm chaque</caption>
       </media>
-      <media name="9.jpg">
+      <media name="aeroplastics/9.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media>
       <!-- <media name="lipstick.jpg">
@@ -76,7 +76,9 @@
       <!-- <media name="dessin_preparatoire_cierges.jpg">
         <caption>Cierges pascals déformés.</caption>
       </media> -->
-
+      <media name="casque.jpg">
+        <caption>écouteurs, shibori</caption>
+      </media>
       <media name="billes mordues 2.jpg">
         <caption>Billes, mâchoire moulée, feuille d'or 20x15cm</caption>
       </media>
@@ -94,6 +96,9 @@
       </media>
       <media name="brosse chevelue 1.jpg">
         <caption>Brosse, cheveux 20x20cm</caption>
+      </media>
+      <media name="langues.JPG">
+        <caption>Installation à Tourinnes-la-grosse, drap de lits</caption>
       </media>
     </gallery>
   </page>
