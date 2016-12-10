@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
   <page>
     <title>feutre</title>
+
     <gallery root="images/feutres">
       <media name="feutre tranché.jpg">
         <caption>Feutre rouge et blanc tranché</caption>
@@ -8,10 +9,9 @@
       <media name="table avec feutres tranchés .jpg">
         <caption>Table de chirurgie et feutres tranchés rouge et blanc</caption>
       </media>
-      <!-- <media name="double feutre rouge.jpg">
+      <media name="la_bouchere_10.jpg">
         <caption></caption>
-      </media> -->
-
+      </media>
       <media name="feutre blanc aux doigts.jpg">
         <caption></caption>
       </media>
@@ -35,7 +35,7 @@
       <media name="3 feutres noirs à clous.jpg">
         <caption>3 feutres noirs à clous</caption>
       </media>
-      
+
       <media name="feutres aimantés.JPG">
         <caption>feutres aimantés</caption>
       </media>

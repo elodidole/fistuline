@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
   <page>
-    <title>vêtement</title>
+    <title>vêtements</title>
     <gallery root="images/vêtements">
       <media name="chemisier yeux boutonnés.jpg">
         <caption></caption>
@@ -21,9 +21,12 @@
       <media name="chemisier aux seins.jpg">
         <caption></caption>
       </media>
-      <!-- <media name="bondage 2.jpg">
-        <caption>Cache coeur en maille dont les liens forment un bondage</caption>
-      </media> -->
+      <media name="chemise_teton_shibori.jpg">
+        <caption></caption>
+      </media>
+      <media name="zip_thorax_blanc.jpg">
+        <caption>thorax en fermetures eclairs blanc</caption>
+      </media>
 
       <media name="gaine buisson.JPG">
         <caption></caption>

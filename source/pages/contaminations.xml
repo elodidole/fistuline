@@ -4,15 +4,30 @@
     <gallery root="images/contamination">
 
 
-
+      <media name="Poster_16.JPG">
+        <caption></caption>
+      </media>
       <media name="DSC05462.JPG">
         <caption>Installation, gouttes dorées, Tourinnes-la-grosse</caption>
       </media>
       <media name="multiplication dorée.JPG">
         <caption>Installation au musée Jurassien, textile doré</caption>
       </media>
-      <media name="musée jurassien.JPG">
+      <media name="musee_jurassien.JPG">
         <caption>Installation au musée Jurassien, vue d'ensemble</caption>
+      </media>
+
+      <media name="moulure_itinérante_pouf_carnivore.JPG">
+        <caption>Installation au musée Jurassien, vue d'ensemble</caption>
+      </media>
+      <media name="moulures_itinerantes.JPG">
+        <caption>Moulure itinérante, installation a la MAAC bruxelles</caption>
+      </media>
+      <media name="moulures_plafond.JPG">
+        <caption>Moulure itinérante</caption>
+      </media>
+      <media name="moulures_rondes.JPG">
+        <caption>Moulure itinérante</caption>
       </media>
       <media name="tuyauterie et éclaboussure.JPG">
         <caption>installation au Musée Jurassien</caption>
@@ -24,9 +39,9 @@
       <media name="P1000340.JPG">
         <caption>Installation in situ à Tourinnes-la-grosse</caption>
       </media>
-      <!-- <media name="P1000362.JPG">
-        <caption>Installation in situ à Tourinnes-la-grosse</caption>
-      </media> -->
+      <media name="tissus_contagieux.JPG">
+        <caption></caption>
+      </media>
       <!-- <media name="metaux_lourds.jpg">
         <caption>Installation, Villeneuve d'Ascq, lac des espagnols</caption>
       </media> -->
