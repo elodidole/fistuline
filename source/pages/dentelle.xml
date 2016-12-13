@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
   <page>
-    <title>dentelle</title>
+    <title>laces</title>
 
     <info>
       Ou il est question de dentelles
@@ -55,13 +55,7 @@
       <media name="flacon c.jpg">
         <caption>Dentelle aux fuseaux en fil noir</caption>
       </media>
-      <!-- <media name="flacon_detail.jpg">
-        <caption>Dentelle aux fuseaux en fil noir</caption>
-      </media> -->
-      flacon_detail
-      <!-- <media name="grandes_plateformes_petrolieres.jpg">
-        <caption>Dentelle aux fuseaux en fil noir, 1,40mx50cm</caption>
-      </media> -->
+
       <media name="grillage affaissé.jpg">
         <caption>Grillage en dentelle aux fuseaux, 126x24cm</caption>
       </media>
