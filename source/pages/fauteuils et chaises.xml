@@ -3,15 +3,16 @@
     <title>chairs and armchairs</title>
     <gallery root="images/fauteuils et chaises">
 
-      <media name="chaise turgescente.jpg">
-        <caption>chaise turgescente</caption>
-      </media>
+
 
 
 
 
       <media name="_DSC9472.jpg">
         <caption>fauteuils à bascule </caption>
+      </media>
+      <media name="chaise turgescente.jpg">
+        <caption>chaise turgescente</caption>
       </media>
       <media name="fauteuilsbascule.jpg">
         <caption>fauteuils à bascule</caption>
