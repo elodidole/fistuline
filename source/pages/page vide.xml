@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+  <page>
+    <title>hair</title>
+
+
+<meta></meta>c'est le texte qui est à côté du nom de la page sous l'image à droite
+<info>Sculptures en coton et chanvre cousu</info>c'est la texte qui apparait quand on clique sur la barre
+
+    <gallery root="images/chevelures">
+
+        <media name="nom de l'image.jpg">
+          <caption>description de l'image</caption>
+        </media>
+
+    </gallery>
+
+  </page>

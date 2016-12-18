@@ -3,46 +3,57 @@
     <title>hair</title>
 
 
-<meta></meta>c'est le texte qui est Ã  cÃ´tÃ© du nom de la page sous l'image Ã  droite
-<info>Sculptures en coton et chanvre cousu</info>c'est la texte qui apparait quand on clique sur la barre
-
     <gallery root="images/chevelures">
 
-        <media name="princesse_au_diademe_detail.jpg">
-          <caption>Chanvre, jute, rembourrage, bijou fantaisie 92x76x70cm</caption>
-        </media>
+<media name="princesse_au_diademe_detail.jpg">
+          <caption>Princesse au diadème (détail) Chanvre, jute, rembourrage, bijou fantaisie 92x76x70cm</caption>
+  </media>
+
       <media name="princesse aux chignons chanvre.jpg">
         <caption>Chanvre, jute, rembourrage, bijou fantaisie 92x76x70cm</caption>
       </media>
+
     <media name="leia_detail.jpg">
           <caption>Chanvre, jute, rembourrage, bijou fantaisie 92x76x70cm</caption>
         </media>
+
       <media name="chevelure_echouee.jpg">
         <caption>Chanvre, jute, rembourrage, ruban bleu</caption>
       </media>
 
       <media name="mine.jpg">
         <caption>Chanvre, jute, rembourrage, rubans 130x40x40cm</caption>
-      </media>  <media name="meduse.jpg">
+      </media>
+
+       <media name="meduse.jpg">
           <caption>Chanvre, jute, rembourrage, rubans 130x40x40cm</caption>
         </media>
 
       <media name="princesse aux rubans.jpg">
         <caption>Chanvre, jute, rembourrage, rubans 130x40x40cm</caption>
       </media>
-      <media name="princesse au diadÃ¨me.jpg">
+
+
+      <media name="princesse au diadème.jpg">
         <caption>Chanvre, jute, rembourrage, bijou fantaisie 168x40x55cm</caption>
       </media>
+
+
       <media name="cornes chanvre.jpg">
-        <caption>Chanvre tressÃ©, toile de jute  140x70x27cm</caption>
-      </media>
-      <media name="trophÃ©e aux chignons chanvre.jpg">
-        <caption>Chanvre, jute et rembourrage</caption>
-      </media>
-      <media name="trophÃ©e aux nattes chanvre.jpg">
-        <caption>Chanvre tressÃ©, toile de jute, rembourrage 100x65x25cm</caption>
+        <caption>Chanvre tressé, toile de jute  140x70x27cm</caption>
       </media>
 
-    </gallery>
+
+      <media name="trophée aux chignons chanvre.jpg">
+        <caption>Chanvre, jute et rembourrage</caption>
+      </media>
+
+
+      <media name="trophée aux nattes chanvre.jpg">
+        <caption>Chanvre tressé, toile de jute, rembourrage 100x65x25cm</caption>
+      </media>
+
+
+  </gallery>
 
   </page>
