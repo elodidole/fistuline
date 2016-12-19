@@ -85,7 +85,7 @@
         <from path="styles/styles.css"/>
         <to path="styles.css"/>
     </asset>
-
+  <asset> <from path="cv.odt"/> <to path="cv.odt"/> </asset>
 
     <asset> <from path="styles/Karla-Regular.ttf"/> <to path="Karla-Regular.ttf"/> </asset>
     <asset> <from path="styles/nosmirc-roman-webfont.ttf"/> <to path="nosmirc-roman-webfont.ttf"/> </asset>
