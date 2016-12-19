@@ -32,10 +32,10 @@ Le site est bon pour previsualisation dans le dossier ```Documents/travail en co
 
 #### étape 3
 
-Réitérer l'étape 1 de telle manière à disposer d'une deuxième fenêtre de terminal dans laquelle il faut écrire
+Disposer d'une deuxième fenêtre de terminal dans laquelle il faut écrire
 
 ```
-cd fistu-web && python -m http.server 8000
+cd fistu-web && /Users/elodie/venv/bin/python -m http.server 8000
 ```
 
 le site est maintenant visible a l'adresse [http://localhost:8000](http://localhost:8000)
@@ -55,3 +55,5 @@ Quand j'ai fini un boulot, je fais commit sur github après avoir mis dans les c
 
 faire un petit fichier png ou svg pour les boutons rouges et bleu
 dans templates master je dois changer les infos pour y mettre les miennes
+
+pour choisir la page qui servira d'index ajouter en haut <page slug="index">

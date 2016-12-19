@@ -2,25 +2,28 @@
   <page>
     <title>embroidery</title>
     <gallery root="images/broderies">
+      
+      <media name="coeur_matelasse.jpg">
+        <caption></caption>
+      </media>
+      <media name="cerveau matelassé crème 2.jpg">
+        <caption></caption>
+      </media>
 
-      <media name="bacilles en perspective.jpg">
-        <caption>Broderies, coton torsadé, cerceaux à broder</caption>
-      </media>
-      <media name="bacilles macro.jpg">
-        <caption>Broderie, détail</caption>
-      </media>
-      <media name="la_crise_d_appendicite.jpg">
+
+      <media name="la_crise_d_appendicite copie.jpg">
         <caption>Broderie, détail</caption>
       </media>
       <media name="couvre_lit_surpique.jpg">
         <caption>couvre-lit surpiqué</caption>
       </media>
 
-      <media name="cerveau matelassé crème 2.jpg">
-        <caption></caption>
+
+      <media name="bacilles en perspective.jpg">
+        <caption>Broderies, coton torsadé, cerceaux à broder</caption>
       </media>
-      <media name="coeur_matelasse.jpg">
-        <caption></caption>
+      <media name="bacilles macro.jpg">
+        <caption>Broderie, détail</caption>
       </media>
       <media name="usine_matelassee.jpg">
         <caption></caption>
