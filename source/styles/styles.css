@@ -1,3 +1,27 @@
+
+@font-face {
+  font-family: "karla";
+  source: url('Karla-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "crimsontext";
+  source: url('nosmirc-roman-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "crimsontext";
+  source: url('nosmirc-italic-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -53,7 +77,7 @@ html { box-sizing: border-box; } *, *:before, *:after { box-sizing: inherit; } h
 }
 /**GENERAL LESS**/
 body {
-  font-family: serif;
+  font-family: "crimsontext", serif;
 }
 a,
 a:link,
@@ -143,32 +167,35 @@ a:visited {
   overflow-y: auto;
 }
 .menu-content .author-infos {
-  font-weight: 120;
+  font-size: 120%;
+  line-height: 120%;
   font-style: italic;
 }
 .menu-content .author-infos .picto {
-  font-family: sans-serif;
+  font-family: "karla";
   font-weight: 400;
   font-style: normal;
   display: inline;
 }
 .menu-content .author-infos .picto-spec {
-  font-family: sans-serif;
+  font-family: "karla";
   font-style: normal;
+  font-size: 170%;
   margin-left: 1px;
+  margin-bottom: .5em;
   cursor: pointer;
 }
 .menu-content .author-infos .spec-name {
   cursor: pointer;
 }
 .menu-content .author-infos .wrapper-langue {
-  font-family: sans-serif;
+  font-family: "karla";
   font-style: normal;
   margin-top: -5px;
 }
 .menu-content .author-infos .wrapper-langue .langue {
   text-transform: uppercase;
-  font-family: monospace;
+  font-family: "karla";
   font-weight: 400;
   letter-spacing: 1.5px;
   font-style: normal;
@@ -188,12 +215,17 @@ a:visited {
   padding: 2vw 0 0 0;
 }
 .menu-content .section-menu .menu-items {
-  font-family: serif;
-  font-weight: 120;
-  font-style: italic;
+  font-family: "crimsontext";
+  font-weight: normal;
+  font-size: 120%;
+  /*font-style: italic;*/
   padding: 0.25vw 0 0 0;
   cursor: pointer;
 }
+.section-menu .menu-items.active {
+    font-weight: bold;
+}
+
 .menu-content.home-menu {
   background-color: transparent;
   bottom: 20vh;
@@ -310,11 +342,11 @@ a:visited {
   text-transform: uppercase;
 }
 .page .infos-wrapper .infos-header .infos-teaser .job-title {
-  font-family: monospace;
+  font-family: "crimsontext";
   font-weight: 400;
 }
 .page .infos-wrapper .infos-header .infos-teaser .job-metas {
-  font-family: monospace;
+  font-family: "crimsontext";
   font-weight: 200;
 }
 .page .infos-wrapper .infos-header .page-nav {

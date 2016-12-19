@@ -85,4 +85,9 @@
         <from path="styles/styles.css"/>
         <to path="styles.css"/>
     </asset>
+
+
+    <asset> <from path="styles/Karla-Regular.ttf"/> <to path="Karla-Regular.ttf"/> </asset>
+    <asset> <from path="styles/nosmirc-roman-webfont.ttf"/> <to path="nosmirc-roman-webfont.ttf"/> </asset>
+    <asset> <from path="styles/nosmirc-italic-webfont.ttf"/> <to path="nosmirc-italic-webfont.ttf"/> </asset>
 </section>
