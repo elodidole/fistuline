@@ -90,4 +90,6 @@
     <asset> <from path="styles/Karla-Regular.ttf"/> <to path="Karla-Regular.ttf"/> </asset>
     <asset> <from path="styles/nosmirc-roman-webfont.ttf"/> <to path="nosmirc-roman-webfont.ttf"/> </asset>
     <asset> <from path="styles/nosmirc-italic-webfont.ttf"/> <to path="nosmirc-italic-webfont.ttf"/> </asset>
+    <asset> <from path="styles/iconmonstr-menu-6.svg"/> <to path="iconmonstr-menu-6.svg"/> </asset>
+    <asset> <from path="styles/iconmonstr-plus-6.svg"/> <to path="iconmonstr-plus-6.svg"/> </asset>
 </section>
