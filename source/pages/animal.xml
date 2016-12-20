@@ -3,36 +3,35 @@
     <title>animal</title>
     <gallery root="images/animal">
       <media name="suspensions_de_fourrures.jpg">
-        <caption>Sculpture en fourrure, macramé</caption>
+        <caption>fur sculpture, macrame 2016</caption>
       </media>
       <media name="2013-10-22 15.19.35.jpg">
-        <caption>Sculpture en fourrure</caption>
+        <caption>Sloth 2013</caption>
       </media>
 
       <media name="2013-10-22 15.20.12.jpg">
-        <caption>Sculpture en fourrure</caption>
+        <caption>Sloth 2013</caption>
       </media>
       <media name="paresseux.jpg">
-        <caption>Sculpture en fourrure, installées sur le site du CACLB à Montauban</caption>
+        <caption>Sloth, CACLB Montauban</caption>
       </media>
-
 
 
       <media name="canards.jpg">
-        <caption>Installation, villeneuve d'Ascq, (avec des invités surprise)</caption>
+        <caption>Heavy metals, villeneuve d'Ascq, France (with guests)</caption>
       </media>
 
-      <media name="autruche_détail.jpg">
-        <caption>Sculptures en béton dans le parc Léopold, Bruxelles</caption>
+      <media name="autruche_detail.jpg">
+        <caption>Ostrich, Concrete sculpture, Leopold Park, Brussels 2016</caption>
       </media>
       <media name="autruches.jpg">
-        <caption>Sculptures en béton dans le parc Léopold, Bruxelles</caption>
+        <caption>Ostrich, Concrete sculpture, Leopold Park, Brussels 2016</caption>
       </media>
       <media name="tapis bulbeux.jpg">
-        <caption>Vue de la galerie Frederic Desimpel, Bruxelles</caption>
+        <caption>Bulbous carpet, Frederic Desimpel gallery, Brussels 2009</caption>
       </media>
       <media name="terrier d'Alice.jpg">
-        <caption>terrier en tapis de laine blanche</caption>
+        <caption>Alice terrier, white wool, MAAC Brussels 2009</caption>
       </media>
       <!-- <media name="IMG_5339.JPG">
         <caption>Montage de l'installation Paresseux à Montauban sur le site du CACLB</caption>
@@ -43,11 +42,8 @@
       </media> -->
 
       <media name="larve.jpg">
-        <caption></caption>
+        <caption>Bra larva, 2003</caption>
       </media>
-
-
-
 
 
     </gallery>
