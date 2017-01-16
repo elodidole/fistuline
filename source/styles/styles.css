@@ -1,33 +1,71 @@
 
-@font-face {
-  font-family: "karla";
-  source: url('Karla-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "crimsontext";
-  source: url('nosmirc-roman-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: "crimsontext";
-  source: url('nosmirc-italic-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: italic;
-}
-
-
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
 html { box-sizing: border-box; } *, *:before, *:after { box-sizing: inherit; } html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; background-color: transparent; } /* HTML5 display-role reset for older browsers */ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; } body { line-height: 1; } ol, ul { list-style: none; } blockquote, q { quotes: none; } blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; } table { border-collapse: collapse; border-spacing: 0;
 }
+/*end of reset*/
+
+/*@font-face {
+  font-family: "karla";
+  src: url('./Karla-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}*/
+
+@font-face {
+    font-family: 'karla';
+    src: url('karla-bold-webfont.woff2') format('woff2'),
+         url('karla-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'karla';
+    src: url('karla-bolditalic-webfont.woff2') format('woff2'),
+         url('karla-bolditalic-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'karla';
+    src: url('karla-italic-webfont.woff2') format('woff2'),
+         url('karla-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'karla';
+    src: url('karla-regular-webfont.woff2') format('woff2'),
+         url('karla-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+  font-family: "./crimsontext";
+  src: url('nosmirc-roman-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "./crimsontext";
+  src: url('nosmirc-italic-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
 
 .example {
     margin: 10%;
@@ -113,10 +151,13 @@ a:visited {
   background-image: url('iconmonstr-menu-6.svg');
     background-size: initial;
 }
+.page .infos-wrapper.on .button.open-menu {
+    position: absolute;
+    bottom: 0;
+}
 .button.open-infos {
   background-image: url('iconmonstr-plus-6.svg');
   background-size: initial;
-
 }
 
 .menu {
@@ -293,7 +334,7 @@ a:visited {
   right: 0;
 }
 .page .infos-wrapper {
-  height: 40px;
+  height: 12vh;
   overflow: hidden;
   background-color: #fff;
   position: absolute;
@@ -304,18 +345,18 @@ a:visited {
 }
 @keyframes infosOff {
   from {
-    height: 20vh;
+    height: 12vh;
   }
   to {
-    height: 40px;
+    height: 5vh;
   }
 }
 @keyframes infosOn {
   from {
-    height: 40px;
+    height: 5vh;
   }
   to {
-    height: 20vh;
+    height: 12vh;
   }
 }
 .page .infos-wrapper.on {
@@ -326,10 +367,10 @@ a:visited {
 .page .infos-wrapper.off {
   animation-name: infosOff;
   animation-duration: 0.5s;
-  height: 40px;
+  height: 5vh;
 }
 .page .infos-wrapper .infos-header {
-  height: 40px;
+  height: 12vh;
   position: relative;
 }
 .page .infos-wrapper .infos-header .buttons-wrapper {
@@ -337,15 +378,15 @@ a:visited {
   left: 0;
   top: 0;
   width: 30vw;
-  height: 40px;
+  height: 12vh;
 }
 .page .infos-wrapper .infos-header .infos-teaser {
   position: absolute;
   width: calc(100vw - 30vw);
   margin-left: 30vw;
-  cursor: pointer;
-  top: 50%;
-  transform: translateY(-50%);
+  /*cursor: pointer;*/
+  top: 1vh; /* 50%; */
+  /*transform: translateY(-50%);*/
 }
 .page .infos-wrapper .infos-header .infos-teaser > * {
   padding: 0 0.125vw;
@@ -387,6 +428,8 @@ a:visited {
   width: calc(100vw - 30vw - 3 * 1vw);
   left: 30vw;
   padding-bottom: 1vw;
+  top: 5vh;
+  padding-left: 0.3vw;
 }
 .page[data-index="0"] .index-col {
   display: inline-block;
@@ -406,8 +449,9 @@ a:visited {
 }
 @media only screen and (max-device-width: 767px) and (orientation: portrait), only screen and (max-width: 479px) {
   .button {
-    width: 30px;
-    height: 30px;
+    /*width: 30px;
+    height: 30px;*/
+    bottom: 0;
   }
   .button.open-infos {
     display: none;
@@ -465,7 +509,7 @@ a:visited {
   }
   .menu.home-menu {
     background-color: #fff;
-    bottom: 30px;
+    /*bottom: 30px;*/
   }
   .page .images-slider {
     bottom: 60vh;
@@ -494,7 +538,6 @@ a:visited {
   }
   .page .infos-wrapper .infos-header .buttons-wrapper {
     width: 100%;
-    height: 30px;
     position: fixed;
     bottom: 0;
     left: 0;
@@ -503,15 +546,16 @@ a:visited {
     z-index: 3;
   }
   .page .infos-wrapper .infos-header .infos-teaser {
-    padding: 5px;
-    padding-left: 0px;
     width: 100%;
     margin: 0px;
+    margin-top: 2em;
+    padding: 5px;
+    padding-left: 0px;
   }
   .page .infos-wrapper .infos-header .infos-teaser > * {
     padding: 0px ;
     padding-bottom: 2.5px;
-    display: inline;
+    display: block;
   }
   .page .infos-wrapper .infos-header .page-nav {
     display: none;

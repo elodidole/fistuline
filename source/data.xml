@@ -88,6 +88,18 @@
   <asset> <from path="cv.odt"/> <to path="cv.odt"/> </asset>
 
     <asset> <from path="styles/Karla-Regular.ttf"/> <to path="Karla-Regular.ttf"/> </asset>
+
+    <asset> <from path="styles/karla-bold-webfont.woff2"/> <to path="karla-bold-webfont.woff2"/> </asset>
+    <asset> <from path="styles/karla-bolditalic-webfont.woff2"/> <to path="karla-bolditalic-webfont.woff2"/> </asset>
+    <asset> <from path="styles/karla-italic-webfont.woff2"/> <to path="karla-italic-webfont.woff2"/> </asset>
+    <asset> <from path="styles/karla-regular-webfont.woff2"/> <to path="karla-regular-webfont.woff2"/> </asset>
+
+    <asset> <from path="styles/karla-bold-webfont.woff"/> <to path="karla-bold-webfont.woff"/> </asset>
+    <asset> <from path="styles/karla-bolditalic-webfont.woff"/> <to path="karla-bolditalic-webfont.woff"/> </asset>
+    <asset> <from path="styles/karla-italic-webfont.woff"/> <to path="karla-italic-webfont.woff"/> </asset>
+    <asset> <from path="styles/karla-regular-webfont.woff"/> <to path="karla-regular-webfont.woff"/> </asset>
+
+
     <asset> <from path="styles/nosmirc-roman-webfont.ttf"/> <to path="nosmirc-roman-webfont.ttf"/> </asset>
     <asset> <from path="styles/nosmirc-italic-webfont.ttf"/> <to path="nosmirc-italic-webfont.ttf"/> </asset>
     <asset> <from path="styles/iconmonstr-menu-6.svg"/> <to path="iconmonstr-menu-6.svg"/> </asset>
