@@ -1,76 +1,74 @@
 <?xml version="1.0" ?>
   <page>
     <title>solo@aeroplastics</title>
-    <meta>"Déliquescence" at Aeroplastics Gallery Brussels in 2015 </meta>c'est le texte qui est à côté du nom de la page sous l'image à droite
+    <meta>Deliquescence, Aeroplastics Gallery Brussels in 2015 </meta>c'est le texte qui est à côté du nom de la page sous l'image à droite
     <gallery root="images/aeroplastics">
       <!-- <media name="17.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media> -->
       <media name="1.jpg">
 
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>Stairs - Soft candles, golden mold</caption>
       </media>
       <media name="2.jpg">
 
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>Stairs - Soft candles, golden mold and thorax</caption>
       </media>
 
       <media name="4.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>1st floor - Sloth and Felt</caption>
       </media>
       <media name="5.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery
-
-</caption>
+        <caption>1st floor - Princesses</caption>
       </media>
       <media name="6.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>1st floor - Contamination in pink textile</caption>
       </media>
       <media name="7.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>1st floor - chaise turgescente et trophée aux nattes</caption>
       </media>
       <media name="8.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>1st floor - chaise turgescente, trophée aux nattes, trophée aux chignons, fauteuil flottant</caption>
       </media>
       <media name="9.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>1st floor - chaise turgescente, trophée aux nattes, trophée aux chignons, billes découpées</caption>
       </media>
       <media name="10.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>2nd floor - le ver, videoprojection</caption>
       </media>
       <media name="11.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>Stairs - felt teeth</caption>
       </media>
       <media name="12.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>2nd floor - embroidered panties, wrap over bondage top</caption>
       </media>
       <!-- <media name="1.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
       </media> -->
 
       <media name="14.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>2nd floor - hairy brush and princess</caption>
       </media>
-      <media name="15.jpg">
+      <!-- <media name="15.jpg">
         <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
-      </media>
+      </media> -->
       <media name="16.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>2nd floor - shirt, horn, carpet, lipsticks</caption>
       </media>
 
       <media name="18.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>2nd floor - shirt, horn, carpet, lipsticks</caption>
       </media>
 
       <media name="20.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>2nd floor - maxy cosy</caption>
       </media>
 
       <media name="22.jpg">
-        <caption>Vue de l'exposition solo à Aeroplastics Contemporary Gallery</caption>
+        <caption>2nd floor - felt installation and a lace</caption>
       </media>
       <media name="21.jpg">
-        <caption>Contamination textile noire 2014, mixed media, fabric, various sizes</caption>
+        <caption>Stairs - black contamination</caption>
       </media>
     </gallery>
   </page>
