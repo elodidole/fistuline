@@ -49,6 +49,7 @@ je vais dans data, je les sélectionne et je fais shift/cmd/slash, ça les met e
 Pour chercher un éléments dans toutes les pages shift/cmd/F (find)
 
 
+
 Si je fais des sous dossiers pour classer mes fichiers images j'essaye que ça soit cohérent avec mes pages et je dois changer le nom dans atom sur mes pages en ajoutant le nom du sous dossier <gallery root="images/ici">
 
 Quand j'ai fini un boulot, je fais commit sur github après avoir mis dans les commentaires une descritpion de ce que j'ai fait et je synchronise
