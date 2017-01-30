@@ -85,6 +85,17 @@
         <from path="styles/styles.css"/>
         <to path="styles.css"/>
     </asset>
+
+    <asset>
+        <from path="styles/arrow-triangle-r.png"/>
+        <to path="pictos/arrow-triangle-r.png"/>
+    </asset>
+
+    <asset>
+        <from path="styles/arrow-triangle-l.png"/>
+        <to path="pictos/arrow-triangle-l.png"/>
+    </asset>
+
   <asset> <from path="cv.odt"/> <to path="cv.odt"/> </asset>
 
     <asset> <from path="styles/Karla-Regular.ttf"/> <to path="Karla-Regular.ttf"/> </asset>

@@ -326,12 +326,25 @@ a:visited {
   position: absolute;
   z-index: 1;
   cursor: pointer;
+      background-repeat: no-repeat;
+      transition: opacity 1s;
+    opacity: 0;
 }
+
+.page .images-slider .image-nav:hover {
+    transition: opacity 1s;
+    opacity: 1;
+}
+
 .page .images-slider .image-nav.previous {
   left: 0;
+  background-image: url(./pictos/arrow-triangle-l.png);
+  background-position: center left;
 }
 .page .images-slider .image-nav.next {
-  right: 0;
+    right: 0;
+    background-image: url(./pictos/arrow-triangle-r.png);
+    background-position: center right;
 }
 .page .infos-wrapper {
   height: 12vh;
@@ -400,8 +413,10 @@ a:visited {
   font-size: 146%;
 }
 .page .infos-wrapper .infos-header .infos-teaser .job-metas {
-  font-family: "crimsontext";
+  font-family: "karla";
   font-weight: 200;
+  font-size: 90%;
+  text-transform: none;
 }
 .page .infos-wrapper .infos-header .page-nav {
   display: none;
