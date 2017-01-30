@@ -2,7 +2,12 @@
   <page>
     <title>drawings</title>
     <gallery root="images/dessins">
-
+      <media name="Dessin 1 bonnet.jpg">
+        <caption>Les baigneuses 1 - posca paint marker on paper - 2016</caption>
+      </media>
+      <media name="Dessin 2 bonnet.jpg">
+        <caption>Les baigneuses 2 - posca paint marker on paper - 2016</caption>
+      </media>
       <media name="la_poilue1.jpg">
         <caption>La poilue - Scratch cards - 15x11cm each - 2014</caption>
       </media>
@@ -25,9 +30,6 @@
         <caption>camisoles 4 - posca paint marker on paper - 2016</caption>
       </media>
 
-      <media name="10-53.jpg">
-        <caption>drawing - posca paint marker on paper - 2016</caption>
-      </media>
 
       <!-- <media name="dessin_preparatoire_cierges.jpg">
         <caption>dessin préparatoire cierges</caption>
@@ -44,6 +46,9 @@
         <caption>Untitled 3 - Scratch cards - 15x11cm each - 2014</caption>
       </media>
 
+      <media name="10-53.jpg">
+        <caption>drawing - posca paint marker on paper - 2016</caption>
+      </media>
 
 
 
